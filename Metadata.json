@@ -1,0 +1,20 @@
+{
+    "Author": "Ruturaj Dhekane",
+    "ContentSize": 2793,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/open-load-balanced-port-80-on-all-vms-of-a-recovery-plan-group/master/OpenLoadBalancedPort80.ps1",
+    "DownloadCount": 836,
+    "Id": "Open-load-balanced-port-80-2a31c167",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 368,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-4-28T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Runbook to add a load balanced endpoint on a cloud service.  This script needs to be used along with recovery plans in Azure Site Recovery. It opens a load balanced port on all VMs of a recovery plan group.",
+    "Title": "Open load balanced port 80 on all VMs of a recovery plan group",
+    "UpdatedDate": "2015-4-28T00:00:00",
+    "Url": "https://github.com/azureautomation/open-load-balanced-port-80-on-all-vms-of-a-recovery-plan-group",
+    "UserTags": "Disaster Recovery"
+}
